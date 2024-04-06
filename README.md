@@ -1,8 +1,5 @@
-# React + Vite
+## Simple Chat app developed with React.Js and Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Check the [App](https://chat-app-2024.netlify.app/)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Important Notice: This project is currently marked as inactive due to potential maintenance issues or lack of resources. While the code provided here remains available for reference and use, please be aware that it may not be actively maintained or updated.
